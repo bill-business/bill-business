@@ -1,4 +1,4 @@
-package edu.zut.software.bill.bill;
+package edu.zut.software.bill;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

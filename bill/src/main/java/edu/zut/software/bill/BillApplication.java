@@ -1,4 +1,4 @@
-package edu.zut.software.bill.bill;
+package edu.zut.software.bill;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
