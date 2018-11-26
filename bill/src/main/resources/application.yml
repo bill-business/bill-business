@@ -26,7 +26,6 @@ spring:
     connectionProperties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=500
 
 #logback日志配置
-logging:
-  config:
-  classpath:
-    logback-boot.xml
+#logging:
+#  config:
+#    classpath:logback-boot.xml
